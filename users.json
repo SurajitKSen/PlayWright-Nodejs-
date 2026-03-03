@@ -1,0 +1,750 @@
+{
+  "generated_at": "2026-03-02T11:17:19.099833Z",
+  "count": 25,
+  "users": [
+    {
+      "id": "2c6b56bb-cb8c-4829-9861-d3ee347ccfde",
+      "name": "Jamie Smith",
+      "email": "jamiesmith.734@demo.net",
+      "password_hash": "1ed3de05dc82c7652561a583e2fb566565d4cc9e83676ed64f178d7c7217685a",
+      "phone": "+1-425-659-5557",
+      "dob": "1950-08-01",
+      "registered_at": "2017-08-28T11:17:19.097557Z",
+      "address": {
+        "street": "2616 Maple Dr",
+        "city": "Greenville",
+        "zip": "46421",
+        "country": "USA"
+      },
+      "roles": [
+        "admin"
+      ],
+      "status": "banned",
+      "preferences": {
+        "newsletter": true,
+        "sms_alerts": true,
+        "theme": "dark"
+      },
+      "metadata": {
+        "score": 9.67,
+        "tags": [
+          "internal"
+        ]
+      }
+    },
+    {
+      "id": "7c4c001c-6b4c-48a7-8b92-948068f82bae",
+      "name": "Casey Smith",
+      "email": "caseysmith.297@example.com",
+      "password_hash": "45fc30819e065498dc90aed2593f7885c7e2072bed1ce216ea395446e600aed7",
+      "phone": "+1-438-303-7227",
+      "dob": "1974-12-09",
+      "registered_at": "2021-01-30T11:17:19.097557Z",
+      "address": {
+        "street": "5978 Oak Ave",
+        "city": "Greenville",
+        "zip": "56566",
+        "country": "USA"
+      },
+      "roles": [
+        "editor"
+      ],
+      "status": "active",
+      "preferences": {
+        "newsletter": true,
+        "sms_alerts": true,
+        "theme": "light"
+      },
+      "metadata": {
+        "score": 46.23,
+        "tags": [
+          "internal"
+        ]
+      }
+    },
+    {
+      "id": "d8b29282-bea6-4f28-8bbc-d6ecc96f58be",
+      "name": "Jordan Garcia",
+      "email": "jordangarcia.937@demo.net",
+      "password_hash": "f18e564e8305a93d7ba72c06dd30922eb5b3219dfa84bf6b08092bd6c9577696",
+      "phone": "+1-346-471-3287",
+      "dob": "1972-02-16",
+      "registered_at": "2017-10-24T11:17:19.097557Z",
+      "address": {
+        "street": "9198 Cedar Ln",
+        "city": "Greenville",
+        "zip": "86622",
+        "country": "USA"
+      },
+      "roles": [
+        "viewer",
+        "admin"
+      ],
+      "status": "inactive",
+      "preferences": {
+        "newsletter": true,
+        "sms_alerts": false,
+        "theme": "light"
+      },
+      "metadata": {
+        "score": 75.58,
+        "tags": []
+      }
+    },
+    {
+      "id": "6a430123-1fb0-4517-b577-dbddcbb2553d",
+      "name": "Taylor Williams",
+      "email": "taylorwilliams.274@test.org",
+      "password_hash": "92e6ea8599b0dc743d299680f2bb73ab91a6159b4b54ab32e45609a81144376e",
+      "phone": "+1-314-500-8123",
+      "dob": "1964-03-10",
+      "registered_at": "2021-01-29T11:17:19.097557Z",
+      "address": {
+        "street": "54 Pine Rd",
+        "city": "Hillview",
+        "zip": "33416",
+        "country": "USA"
+      },
+      "roles": [
+        "editor"
+      ],
+      "status": "inactive",
+      "preferences": {
+        "newsletter": true,
+        "sms_alerts": false,
+        "theme": "light"
+      },
+      "metadata": {
+        "score": 53.94,
+        "tags": [
+          "beta",
+          "trial"
+        ]
+      }
+    },
+    {
+      "id": "bba1280e-a8f1-455a-bfaa-d31bb31c1298",
+      "name": "Sam Smith",
+      "email": "samsmith.129@mail.com",
+      "password_hash": "eb595c040d7d486a963f40cbe15d7c598380436d918aee7d423ad7fe9fce413e",
+      "phone": "+1-875-686-3705",
+      "dob": "1973-10-12",
+      "registered_at": "2020-04-01T11:17:19.097557Z",
+      "address": {
+        "street": "9939 Maple Dr",
+        "city": "Rivertown",
+        "zip": "80686",
+        "country": "USA"
+      },
+      "roles": [
+        "editor"
+      ],
+      "status": "pending",
+      "preferences": {
+        "newsletter": false,
+        "sms_alerts": false,
+        "theme": "dark"
+      },
+      "metadata": {
+        "score": 12.1,
+        "tags": []
+      }
+    },
+    {
+      "id": "51de3979-be7a-4c06-a9bb-4a3f63b8d3b6",
+      "name": "Jamie Garcia",
+      "email": "jamiegarcia.553@mail.com",
+      "password_hash": "d3210b8b1bff21409c7d62d4bd53948df1ad0e925d9a0e8d25f1f2785bdcc875",
+      "phone": "+1-940-784-8744",
+      "dob": "1971-10-20",
+      "registered_at": "2017-05-15T11:17:19.097557Z",
+      "address": {
+        "street": "7750 Maple Dr",
+        "city": "Rivertown",
+        "zip": "22363",
+        "country": "USA"
+      },
+      "roles": [
+        "viewer"
+      ],
+      "status": "banned",
+      "preferences": {
+        "newsletter": false,
+        "sms_alerts": false,
+        "theme": "dark"
+      },
+      "metadata": {
+        "score": 86.38,
+        "tags": []
+      }
+    },
+    {
+      "id": "0fb1ce4d-f6d1-420c-80a7-fd06cf4c3d5a",
+      "name": "Jamie Smith",
+      "email": "jamiesmith.564@example.com",
+      "password_hash": "1a07637b80d07ce38fdf26408d88ed7139e925e17e4cdbb48c4c96fa46b63301",
+      "phone": "+1-251-867-9856",
+      "dob": "1951-04-29",
+      "registered_at": "2025-02-13T11:17:19.097557Z",
+      "address": {
+        "street": "3873 Oak Ave",
+        "city": "Lakeside",
+        "zip": "73653",
+        "country": "USA"
+      },
+      "roles": [
+        "admin",
+        "viewer"
+      ],
+      "status": "active",
+      "preferences": {
+        "newsletter": true,
+        "sms_alerts": false,
+        "theme": "light"
+      },
+      "metadata": {
+        "score": 98.53,
+        "tags": [
+          "partner"
+        ]
+      }
+    },
+    {
+      "id": "a61795a7-b8b4-4742-ba36-477320df7eb4",
+      "name": "Casey Miller",
+      "email": "caseymiller.489@mail.com",
+      "password_hash": "80ab2b0c3f77e16d76ec1cc2d6a5bbc1c251a7c5ab9e47ac280030734bd9385c",
+      "phone": "+1-258-720-2312",
+      "dob": "1966-09-03",
+      "registered_at": "2025-05-26T11:17:19.097557Z",
+      "address": {
+        "street": "9750 Main St",
+        "city": "Rivertown",
+        "zip": "62923",
+        "country": "USA"
+      },
+      "roles": [
+        "admin"
+      ],
+      "status": "active",
+      "preferences": {
+        "newsletter": true,
+        "sms_alerts": false,
+        "theme": "dark"
+      },
+      "metadata": {
+        "score": 93.47,
+        "tags": []
+      }
+    },
+    {
+      "id": "31d4ca78-a494-45bf-8834-3422e2f69686",
+      "name": "Riley Brown",
+      "email": "rileybrown.136@test.org",
+      "password_hash": "12e7a5cff7f472f97f3c99fa4784a59b618c7175dc6e53e56ae5a1c0e9676a9d",
+      "phone": "+1-270-450-7054",
+      "dob": "1975-07-27",
+      "registered_at": "2024-05-25T11:17:19.097557Z",
+      "address": {
+        "street": "7180 Cedar Ln",
+        "city": "Greenville",
+        "zip": "90173",
+        "country": "USA"
+      },
+      "roles": [
+        "editor"
+      ],
+      "status": "active",
+      "preferences": {
+        "newsletter": true,
+        "sms_alerts": false,
+        "theme": "light"
+      },
+      "metadata": {
+        "score": 88.97,
+        "tags": [
+          "internal",
+          "vip"
+        ]
+      }
+    },
+    {
+      "id": "4d8106ef-0db6-4c43-829d-bbffb9b94b39",
+      "name": "Casey Jones",
+      "email": "caseyjones.790@mail.com",
+      "password_hash": "8fdd6ef1177c2463c930bf5e6d88e464d0d88c5ebb9bdb250db8400e2abb7536",
+      "phone": "+1-852-468-3647",
+      "dob": "1989-08-22",
+      "registered_at": "2019-12-25T11:17:19.097557Z",
+      "address": {
+        "street": "7008 Cedar Ln",
+        "city": "Springfield",
+        "zip": "24663",
+        "country": "USA"
+      },
+      "roles": [
+        "admin"
+      ],
+      "status": "active",
+      "preferences": {
+        "newsletter": false,
+        "sms_alerts": true,
+        "theme": "dark"
+      },
+      "metadata": {
+        "score": 12.74,
+        "tags": [
+          "trial"
+        ]
+      }
+    },
+    {
+      "id": "324ad7ea-36fd-4388-a56c-e619531ca8b5",
+      "name": "Alex Garcia",
+      "email": "alexgarcia.903@demo.net",
+      "password_hash": "702735870f71c01a467d8105bf745f3f6f0e17ddac6ff8c93b52b0471f62f461",
+      "phone": "+1-225-383-6442",
+      "dob": "1986-12-09",
+      "registered_at": "2017-03-04T11:17:19.097557Z",
+      "address": {
+        "street": "4066 Pine Rd",
+        "city": "Rivertown",
+        "zip": "24168",
+        "country": "USA"
+      },
+      "roles": [
+        "user",
+        "admin"
+      ],
+      "status": "inactive",
+      "preferences": {
+        "newsletter": true,
+        "sms_alerts": false,
+        "theme": "dark"
+      },
+      "metadata": {
+        "score": 30.52,
+        "tags": []
+      }
+    },
+    {
+      "id": "094a82df-fd69-4a2e-b2bf-a9305b8d06a1",
+      "name": "Jordan Smith",
+      "email": "jordansmith.268@mail.com",
+      "password_hash": "c1e6502a4f43a566400f64650fbeb85a321f3ee09c167957ec37653758f2b806",
+      "phone": "+1-794-471-1626",
+      "dob": "1959-09-23",
+      "registered_at": "2019-06-24T11:17:19.097557Z",
+      "address": {
+        "street": "7120 Pine Rd",
+        "city": "Greenville",
+        "zip": "67199",
+        "country": "USA"
+      },
+      "roles": [
+        "viewer"
+      ],
+      "status": "inactive",
+      "preferences": {
+        "newsletter": false,
+        "sms_alerts": true,
+        "theme": "dark"
+      },
+      "metadata": {
+        "score": 0.17,
+        "tags": [
+          "vip",
+          "trial"
+        ]
+      }
+    },
+    {
+      "id": "43d3bbb9-e314-4d9c-9643-1cdeb75e0a50",
+      "name": "Morgan Johnson",
+      "email": "morganjohnson.681@demo.net",
+      "password_hash": "3182b1c8d56701243017e3660fbfb4fdeff1a58f87f90a9251a62e36ba6fcc57",
+      "phone": "+1-893-966-3851",
+      "dob": "2005-03-22",
+      "registered_at": "2019-10-14T11:17:19.097557Z",
+      "address": {
+        "street": "4931 Maple Dr",
+        "city": "Hillview",
+        "zip": "10053",
+        "country": "USA"
+      },
+      "roles": [
+        "editor",
+        "user"
+      ],
+      "status": "pending",
+      "preferences": {
+        "newsletter": false,
+        "sms_alerts": false,
+        "theme": "dark"
+      },
+      "metadata": {
+        "score": 44.22,
+        "tags": []
+      }
+    },
+    {
+      "id": "c115756a-3105-4daa-b93c-b2f9fe1a9c0d",
+      "name": "Dana Davis",
+      "email": "danadavis.151@example.com",
+      "password_hash": "7f3f4757816fa9bccb4a562f91ceeb8a331c633367ef585848128daf03c78092",
+      "phone": "+1-247-450-8784",
+      "dob": "2004-11-03",
+      "registered_at": "2016-08-21T11:17:19.097557Z",
+      "address": {
+        "street": "1194 Maple Dr",
+        "city": "Lakeside",
+        "zip": "92544",
+        "country": "USA"
+      },
+      "roles": [
+        "viewer"
+      ],
+      "status": "pending",
+      "preferences": {
+        "newsletter": false,
+        "sms_alerts": true,
+        "theme": "light"
+      },
+      "metadata": {
+        "score": 65.61,
+        "tags": []
+      }
+    },
+    {
+      "id": "242661ec-446c-4286-a9cd-8150677f5c61",
+      "name": "Jamie Miller",
+      "email": "jamiemiller.774@demo.net",
+      "password_hash": "102371feb7ddf5112c021c60c047330af3c464ccb2e44df93a28c9cee082ebad",
+      "phone": "+1-827-936-9270",
+      "dob": "1988-04-14",
+      "registered_at": "2016-11-07T11:17:19.098606Z",
+      "address": {
+        "street": "8977 Maple Dr",
+        "city": "Rivertown",
+        "zip": "72216",
+        "country": "USA"
+      },
+      "roles": [
+        "editor",
+        "user"
+      ],
+      "status": "banned",
+      "preferences": {
+        "newsletter": false,
+        "sms_alerts": true,
+        "theme": "dark"
+      },
+      "metadata": {
+        "score": 43.99,
+        "tags": [
+          "trial",
+          "vip"
+        ]
+      }
+    },
+    {
+      "id": "a6d6e49c-dd4a-4661-9029-1816f96b2131",
+      "name": "Casey Garcia",
+      "email": "caseygarcia.927@example.com",
+      "password_hash": "da0582729d92758404313e00e67489f4e040725b0d95faca772229f11f7382e5",
+      "phone": "+1-983-789-7232",
+      "dob": "1992-10-16",
+      "registered_at": "2026-02-06T11:17:19.098606Z",
+      "address": {
+        "street": "5764 Pine Rd",
+        "city": "Lakeside",
+        "zip": "64921",
+        "country": "USA"
+      },
+      "roles": [
+        "viewer"
+      ],
+      "status": "inactive",
+      "preferences": {
+        "newsletter": false,
+        "sms_alerts": false,
+        "theme": "dark"
+      },
+      "metadata": {
+        "score": 2.9,
+        "tags": [
+          "partner"
+        ]
+      }
+    },
+    {
+      "id": "ae770176-ebcf-4fde-b977-2166f1871d6f",
+      "name": "Taylor Davis",
+      "email": "taylordavis.466@test.org",
+      "password_hash": "7ba7e2c74bbc85620e214f117186afcc7e776c1b3cacb861896d4d92fd4c020a",
+      "phone": "+1-545-979-7211",
+      "dob": "1974-12-18",
+      "registered_at": "2017-09-25T11:17:19.098606Z",
+      "address": {
+        "street": "6907 Pine Rd",
+        "city": "Springfield",
+        "zip": "71644",
+        "country": "USA"
+      },
+      "roles": [
+        "user"
+      ],
+      "status": "banned",
+      "preferences": {
+        "newsletter": true,
+        "sms_alerts": true,
+        "theme": "light"
+      },
+      "metadata": {
+        "score": 75.42,
+        "tags": []
+      }
+    },
+    {
+      "id": "b02ea64d-61c0-44b6-9b72-ac8f2c01187a",
+      "name": "Jordan Smith",
+      "email": "jordansmith.168@test.org",
+      "password_hash": "e11c188a7e07615af44a45eb8bbc39279a6b1ba6fddf58c40110463ea6a3ce26",
+      "phone": "+1-310-792-1420",
+      "dob": "1977-12-27",
+      "registered_at": "2019-09-17T11:17:19.098606Z",
+      "address": {
+        "street": "6150 Maple Dr",
+        "city": "Rivertown",
+        "zip": "19961",
+        "country": "USA"
+      },
+      "roles": [
+        "user"
+      ],
+      "status": "banned",
+      "preferences": {
+        "newsletter": true,
+        "sms_alerts": true,
+        "theme": "dark"
+      },
+      "metadata": {
+        "score": 53.27,
+        "tags": [
+          "trial",
+          "beta"
+        ]
+      }
+    },
+    {
+      "id": "d36624b7-7644-45bf-b628-3221b13777ae",
+      "name": "Dana Garcia",
+      "email": "danagarcia.942@demo.net",
+      "password_hash": "c1256f2c97e428103c63c339f145037f47dba61dab47af7963c94fb7447543e8",
+      "phone": "+1-676-646-5397",
+      "dob": "1978-12-01",
+      "registered_at": "2016-08-13T11:17:19.098606Z",
+      "address": {
+        "street": "4023 Main St",
+        "city": "Greenville",
+        "zip": "69087",
+        "country": "USA"
+      },
+      "roles": [
+        "viewer"
+      ],
+      "status": "pending",
+      "preferences": {
+        "newsletter": false,
+        "sms_alerts": true,
+        "theme": "dark"
+      },
+      "metadata": {
+        "score": 85.1,
+        "tags": []
+      }
+    },
+    {
+      "id": "87c829f2-45c3-4cf2-9466-d1692f2733fb",
+      "name": "Sam Brown",
+      "email": "sambrown.488@demo.net",
+      "password_hash": "f6293bb3f3055f839a0a7b10e67113a01ef2725d91ac45059026a6228786c3d5",
+      "phone": "+1-658-217-2524",
+      "dob": "1976-05-25",
+      "registered_at": "2023-09-07T11:17:19.098606Z",
+      "address": {
+        "street": "6626 Oak Ave",
+        "city": "Greenville",
+        "zip": "97026",
+        "country": "USA"
+      },
+      "roles": [
+        "viewer",
+        "editor"
+      ],
+      "status": "banned",
+      "preferences": {
+        "newsletter": false,
+        "sms_alerts": false,
+        "theme": "dark"
+      },
+      "metadata": {
+        "score": 70.29,
+        "tags": [
+          "trial"
+        ]
+      }
+    },
+    {
+      "id": "a6939f7f-f0fd-455a-adfd-21b7fa6842fa",
+      "name": "Casey Brown",
+      "email": "caseybrown.103@mail.com",
+      "password_hash": "8c69f52dd0798277462d440a2abcdf8080ff4ab5ec47150be9063d15d2775242",
+      "phone": "+1-503-432-6912",
+      "dob": "1966-02-05",
+      "registered_at": "2022-10-11T11:17:19.098606Z",
+      "address": {
+        "street": "232 Cedar Ln",
+        "city": "Rivertown",
+        "zip": "45954",
+        "country": "USA"
+      },
+      "roles": [
+        "user"
+      ],
+      "status": "banned",
+      "preferences": {
+        "newsletter": true,
+        "sms_alerts": false,
+        "theme": "light"
+      },
+      "metadata": {
+        "score": 87.27,
+        "tags": [
+          "trial",
+          "partner"
+        ]
+      }
+    },
+    {
+      "id": "b53b0910-ffc3-4525-b3be-4f047d68d182",
+      "name": "Sam Davis",
+      "email": "samdavis.88@mail.com",
+      "password_hash": "28e52a583aea66bf271ebfceb84cf81b54869ff3e27c132361ed25d55680f768",
+      "phone": "+1-321-771-7818",
+      "dob": "2004-05-24",
+      "registered_at": "2019-06-26T11:17:19.098606Z",
+      "address": {
+        "street": "3698 Cedar Ln",
+        "city": "Lakeside",
+        "zip": "69049",
+        "country": "USA"
+      },
+      "roles": [
+        "editor",
+        "viewer"
+      ],
+      "status": "pending",
+      "preferences": {
+        "newsletter": false,
+        "sms_alerts": true,
+        "theme": "light"
+      },
+      "metadata": {
+        "score": 94.76,
+        "tags": []
+      }
+    },
+    {
+      "id": "02893a8c-b71e-4699-ba4d-8c03147d7a2e",
+      "name": "Jordan Jones",
+      "email": "jordanjones.704@mail.com",
+      "password_hash": "f93c24fba6272721a8ceff01c287ac8dd4454580e7998456af9f6853fe9658b5",
+      "phone": "+1-470-840-4241",
+      "dob": "1988-02-21",
+      "registered_at": "2024-11-17T11:17:19.098606Z",
+      "address": {
+        "street": "8923 Oak Ave",
+        "city": "Rivertown",
+        "zip": "44816",
+        "country": "USA"
+      },
+      "roles": [
+        "user"
+      ],
+      "status": "active",
+      "preferences": {
+        "newsletter": true,
+        "sms_alerts": false,
+        "theme": "dark"
+      },
+      "metadata": {
+        "score": 43.92,
+        "tags": [
+          "trial"
+        ]
+      }
+    },
+    {
+      "id": "311148ef-4acf-4089-aeb3-6a1488edd204",
+      "name": "Morgan Jones",
+      "email": "morganjones.784@test.org",
+      "password_hash": "d6358946097131f1fb975891986531f482f1a36281cd8c64179098f4e64cd22b",
+      "phone": "+1-790-241-3870",
+      "dob": "1992-03-18",
+      "registered_at": "2020-05-07T11:17:19.098606Z",
+      "address": {
+        "street": "7246 Pine Rd",
+        "city": "Rivertown",
+        "zip": "86720",
+        "country": "USA"
+      },
+      "roles": [
+        "viewer",
+        "user"
+      ],
+      "status": "pending",
+      "preferences": {
+        "newsletter": false,
+        "sms_alerts": false,
+        "theme": "dark"
+      },
+      "metadata": {
+        "score": 32.11,
+        "tags": []
+      }
+    },
+    {
+      "id": "814c90f3-c7df-43f7-98c4-3b34d18240c2",
+      "name": "Taylor Garcia",
+      "email": "taylorgarcia.2@demo.net",
+      "password_hash": "757c493c98b475f37df6420811c40065ee9aecadfa2f2277c72ca53e9a0b99ac",
+      "phone": "+1-623-255-4073",
+      "dob": "1996-07-06",
+      "registered_at": "2022-02-10T11:17:19.098606Z",
+      "address": {
+        "street": "8168 Maple Dr",
+        "city": "Springfield",
+        "zip": "36680",
+        "country": "USA"
+      },
+      "roles": [
+        "admin",
+        "viewer"
+      ],
+      "status": "pending",
+      "preferences": {
+        "newsletter": false,
+        "sms_alerts": true,
+        "theme": "light"
+      },
+      "metadata": {
+        "score": 97.31,
+        "tags": [
+          "vip",
+          "internal"
+        ]
+      }
+    }
+  ]
+}
